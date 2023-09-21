@@ -3,6 +3,8 @@ import Count from "./Count"
 function App(){
     return<>
     <Count/>
+    <Count/>
+    <Count/>
 
   </>
 }
